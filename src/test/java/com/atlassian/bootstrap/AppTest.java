@@ -37,6 +37,6 @@ public class AppTest
     }
 
 public void testFailed() {
-assertEquals(1, 1);
+assertEquals(1, 2);
 	}
 }
